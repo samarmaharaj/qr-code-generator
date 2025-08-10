@@ -18,21 +18,15 @@ This project is a local-only tool that combines QR code generation with optional
 
 > **Note:** No server or installation is required. Everything runs in your browser locally.
 
-## Adding Your Screenshot
+## Adding Screenshot
 
-Paste your screenshot here:
 
-```
-[Place your screenshot here]
-```
+
+![Screenshot](images/Screenshot1.png)
+![Screenshot](images/Screenshot2.png)
+
 
 ---
-
-**Author:** Samar Maharaj
-
-
-
-
 
 # Run and deploy your AI Studio app
 
@@ -42,9 +36,11 @@ This contains everything you need to run your app locally.
 
 **Prerequisites:**  Node.js
 
-
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+---
+
+**Author:** Samar Maharaj
